@@ -83,8 +83,6 @@ def result(board):
             break
         elif final_result == "X":
             break
-        elif result == "continue":
-            break
 
     return final_result
 
