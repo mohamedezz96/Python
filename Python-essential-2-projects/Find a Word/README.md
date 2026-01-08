@@ -33,6 +33,10 @@ Your program should:
 ## 🧪 Test Data
 
 ### Sample Input 1
+donor
+Nabucodonosor
+
+### Sample Output 1
 Yes
 
 ### Explanation  
@@ -41,6 +45,10 @@ The letters **d → o → n → o → r** appear in the second string in the sam
 ---
 
 ### Sample Input 2
+donut
+Nabucodonosor
+
+### Sample Output 2
 No
 
 ### Explanation  
