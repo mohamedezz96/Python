@@ -26,7 +26,6 @@ The distance between two points on a plane is calculated using the Euclidean dis
 \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
 \]
 
-Python provides `math.hypot(dx, dy)` to compute this efficiently.
 
 ---
 
