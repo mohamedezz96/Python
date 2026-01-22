@@ -3,7 +3,7 @@ class WeekDayError(Exception):
 	
 
 class Weeker:
-    week_days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+    __week_days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
     def __init__(self, day):
         if day not in Weeker.week_days:
