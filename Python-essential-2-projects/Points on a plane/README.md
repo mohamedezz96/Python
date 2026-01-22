@@ -5,8 +5,6 @@
 This lab introduces **object-oriented programming** concepts by working with points on a **Cartesian coordinate plane**.  
 Each point is represented by two coordinates `(x, y)`, and the goal is to calculate distances between points.
 
-The implementation uses the `hypot()` function from Python’s built-in `math` module to compute Euclidean distance.
-
 ---
 
 ## 🎯 Objective
